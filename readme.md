@@ -1,6 +1,6 @@
 ## Laravel Social Login
 
-A tutorial on how to implement social login in Facebook, Twitter, and Google using Socialite  - The official package provided by Laravel for OAuth authentication.
+A tutorial on how to implement social login in Facebook, Twitter, and Google using Socialite  - The official package provided by Laravel for third party OAuth authentication.
 
 
 ## Link to Medium Post
